@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5967553855661,
+    "title": "Tiki Voucher",
+    "body_html": "This is tiki voucher",
+    "vendor": "Tribee-1123",
+    "product_type": "Voucher",
+    "created_at": "2020-10-18T21:58:53-04:00",
+    "handle": "kkkk",
+    "updated_at": "2020-10-23T01:05:09-04:00",
+    "published_at": "2020-10-18T21:58:55-04:00",
+    "template_suffix": "",
+    "published_scope": "web",
+    "tags": "",
+    "admin_graphql_api_id": "gid://shopify/Product/5967553855661",
+    "options": [
+      {
+        "id": 7653167530157,
+        "product_id": 5967553855661,
+        "name": "Title",
+        "position": 1
+      }
+    ],
+    "images": [
+      {
+        "id": 21584007626925,
+        "product_id": 5967553855661,
+        "position": 1,
+        "created_at": "2020-10-23T00:49:30-04:00",
+        "updated_at": "2020-10-23T00:49:30-04:00",
+        "alt": null,
+        "width": 2510,
+        "height": 1656,
+        "src": "https://cdn.shopify.com/s/files/1/0505/0672/7597/products/ScreenShot2020-10-23at11.07.43.png?v=1603428570",
+        "variant_ids": [],
+        "admin_graphql_api_id": "gid://shopify/ProductImage/21584007626925"
+      },
+      {
+        "id": 21584065626285,
+        "product_id": 5967553855661,
+        "position": 2,
+        "created_at": "2020-10-23T01:05:09-04:00",
+        "updated_at": "2020-10-23T01:05:09-04:00",
+        "alt": null,
+        "width": 2510,
+        "height": 1656,
+        "src": "https://cdn.shopify.com/s/files/1/0505/0672/7597/products/ScreenShot2020-10-23at11.07.43_90846774-ec0f-4f15-9658-c8c74f736c63.png?v=1603429509",
+        "variant_ids": [],
+        "admin_graphql_api_id": "gid://shopify/ProductImage/21584065626285"
+      }
+    ],
+    "image": {
+      "id": 21584007626925,
+      "product_id": 5967553855661,
+      "position": 1,
+      "created_at": "2020-10-23T00:49:30-04:00",
+      "updated_at": "2020-10-23T00:49:30-04:00",
+      "alt": null,
+      "width": 2510,
+      "height": 1656,
+      "src": "https://cdn.shopify.com/s/files/1/0505/0672/7597/products/ScreenShot2020-10-23at11.07.43.png?v=1603428570",
+      "variant_ids": [],
+      "admin_graphql_api_id": "gid://shopify/ProductImage/21584007626925"
+    }
+  }
+]

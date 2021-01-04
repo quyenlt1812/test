@@ -1,0 +1,38 @@
+[
+  {
+    "created_at": "2020-10-05T16:46:26.106Z",
+    "id": 1,
+    "updated_at": "2020-10-05T16:46:26.106Z",
+    "url": "https://tribee-bucket.s3-ap-southeast-1.amazonaws.com/recognition_images/problem-cracker.png"
+  },
+  {
+    "created_at": "2020-10-05T16:46:26.106Z",
+    "id": 2,
+    "updated_at": "2020-10-05T16:46:26.106Z",
+    "url": "https://tribee-bucket.s3-ap-southeast-1.amazonaws.com/recognition_images/team-inspirer.png"
+  },
+  {
+    "created_at": "2020-10-05T16:46:26.106Z",
+    "id": 3,
+    "updated_at": "2020-10-05T16:46:26.106Z",
+    "url": "https://tribee-bucket.s3-ap-southeast-1.amazonaws.com/recognition_images/great-vibing.png"
+  },
+  {
+    "created_at": "2020-10-05T16:46:26.106Z",
+    "id": 4,
+    "updated_at": "2020-10-05T16:46:26.106Z",
+    "url": "https://tribee-bucket.s3-ap-southeast-1.amazonaws.com/recognition_images/passion-fueler.png"
+  },
+  {
+    "created_at": "2020-10-05T16:46:26.106Z",
+    "id": 5,
+    "updated_at": "2020-10-05T16:46:26.106Z",
+    "url": "https://tribee-bucket.s3-ap-southeast-1.amazonaws.com/recognition_images/bright-handler.png"
+  },
+  {
+    "created_at": "2020-10-05T16:46:26.106Z",
+    "id": 6,
+    "updated_at": "2020-10-05T16:46:26.106Z",
+    "url": "https://tribee-bucket.s3-ap-southeast-1.amazonaws.com/recognition_images/growth-thruster.png"
+  }
+]

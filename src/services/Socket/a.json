@@ -1,0 +1,29 @@
+{
+  "data": {
+    "post": {
+      "count_comments": 0,
+      "count_reactions": 0,
+      "created_at": "2020-12-16T10:34:43.164Z",
+      "id": 119,
+      "news": null,
+      "recognition": [Object
+      ],
+      "type": 1
+    },
+    "recognition": {
+      "badge": [Object
+      ],
+      "created_at": "2020-12-16T10:34:43.037Z",
+      "id": 119,
+      "image": null,
+      "message": "Plp",
+      "receiver": [Object
+      ],
+      "sender": [Object
+      ],
+      "value": 0
+    },
+    "schema": "public"
+  },
+  "event": "add-post"
+}

@@ -1,0 +1,43 @@
+[
+  {
+    "admin_graphql_api_id": "gid://shopify/Collection/232831025325",
+    "body_html": "",
+    "disjunctive": false,
+    "handle": "giải-tri",
+    "id": 232831025325,
+    "image": {
+      "alt": null,
+      "created_at": "2020-10-27T02:27:53-04:00",
+      "height": 844,
+      "src": "https://cdn.shopify.com/s/files/1/0505/0672/7597/collections/epic2.jpg?v=1603780073",
+      "width": 1500
+    },
+    "published_at": "2020-10-27T02:27:54-04:00",
+    "published_scope": "web",
+    "rules": [
+      [Object
+      ]
+    ],
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "title": "Giải trí",
+    "updated_at": "2020-10-27T02:33:56-04:00"
+  },
+  {
+    "admin_graphql_api_id": "gid://shopify/Collection/232314667181",
+    "body_html": "",
+    "disjunctive": true,
+    "handle": "tiki",
+    "id": 232314667181,
+    "published_at": "2020-10-20T04:54:23-04:00",
+    "published_scope": "web",
+    "rules": [
+      [Object
+      ]
+    ],
+    "sort_order": "manual",
+    "template_suffix": "",
+    "title": "Tiki",
+    "updated_at": "2020-10-23T23:25:33-04:00"
+  }
+]

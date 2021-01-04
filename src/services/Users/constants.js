@@ -1,0 +1,24 @@
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+
+export const UPDATE_USER = 'UPDATE_USER';
+export const UPLOAD_AVATAR = 'UPLOAD_AVATAR';
+
+export const SET_PEERS = 'SET_PEERS';
+export const SEARCH_PEERS = 'SEARCH_PEERS';
+
+export const GET_USER_PROFILE = 'GET_USER_PROFILE';
+
+export const SET_COLLEAGUES = 'SET_COLLEAGUES';
+export const GET_COLLEAGUES = 'GET_COLLEAGUES';
+
+export const CHANGE_PASSWORD = 'CHANGE_PASSWORD';
+
+export const GET_REWARDS = 'GET_REWARDS';
+export const SET_REWARDS = 'SET_REWARDS';
+
+export const SYNC_FCM_TOKEN = 'SYNC_FCM_TOKEN';
+
+export const REFRESH_USER_REWARD = 'REFRESH_USER_REWARD';
+export const SET_USER_REWARD_LOADING = 'SET_USER_REWARD_LOADING';
+
+export const RESET_USER = 'RESET_USER';

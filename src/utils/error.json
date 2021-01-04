@@ -1,0 +1,96 @@
+{
+  "config": {
+    "adapter": [Function xhrAdapter
+    ],
+    "baseURL": "https://tribee.vn/api/v1",
+    "data": "{\"email\":\"quyen.le@eastplayers.io\"}",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "Content-Type": "application/json;charset=utf-8"
+    },
+    "maxBodyLength": -1,
+    "maxContentLength": -1,
+    "method": "post",
+    "timeout": 15000,
+    "transformRequest": [
+      [Function transformRequest
+      ]
+    ],
+    "transformResponse": [
+      [Function transformResponse
+      ]
+    ],
+    "url": "/users/reset-password",
+    "validateStatus": [Function validateStatus
+    ],
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN"
+  },
+  "data": {
+    "message": "Internal server error",
+    "statusCode": 500
+  },
+  "headers": {
+    "connection": "close",
+    "content-length": "52",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Wed, 21 Oct 2020 07:38:51 GMT",
+    "etag": "W/\"34-rlKccw1E+/fV8niQk4oFitDfPro\"",
+    "server": "nginx/1.18.0",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "Express"
+  },
+  "request": {
+    "DONE": 4,
+    "HEADERS_RECEIVED": 2,
+    "LOADING": 3,
+    "OPENED": 1,
+    "UNSENT": 0,
+    "_aborted": false,
+    "_cachedResponse": undefined,
+    "_hasError": false,
+    "_headers": {
+      "accept": "application/json, text/plain, */*",
+      "content-type": "application/json;charset=utf-8"
+    },
+    "_incrementalEvents": false,
+    "_lowerCaseResponseHeaders": {
+      "connection": "close",
+      "content-length": "52",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Wed, 21 Oct 2020 07:38:51 GMT",
+      "etag": "W/\"34-rlKccw1E+/fV8niQk4oFitDfPro\"",
+      "server": "nginx/1.18.0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-powered-by": "Express"
+    },
+    "_method": "POST",
+    "_perfKey": "network_XMLHttpRequest_https://tribee.vn/api/v1/users/reset-password",
+    "_requestId": null,
+    "_response": "{\"statusCode\":500,\"message\":\"Internal server error\"}",
+    "_responseType": "",
+    "_sent": true,
+    "_subscriptions": [],
+    "_timedOut": false,
+    "_trackingName": "unknown",
+    "_url": "https://tribee.vn/api/v1/users/reset-password",
+    "readyState": 4,
+    "responseHeaders": {
+      "Connection": "close",
+      "Content-Length": "52",
+      "Content-Type": "application/json; charset=utf-8",
+      "Date": "Wed, 21 Oct 2020 07:38:51 GMT",
+      "Etag": "W/\"34-rlKccw1E+/fV8niQk4oFitDfPro\"",
+      "Server": "nginx/1.18.0",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Powered-By": "Express"
+    },
+    "responseURL": "https://tribee.vn/api/v1/users/reset-password",
+    "status": 500,
+    "timeout": 15000,
+    "upload": {},
+    "withCredentials": true
+  },
+  "status": 500,
+  "statusText": undefined
+}
